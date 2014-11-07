@@ -1,0 +1,20 @@
+{
+  "name": "locAugment",
+  "version": "0.1.0",
+  "description": "Add details to location objects using HERE reverse-geolocation api",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/swervo/locAugment"
+  },
+  "author": "Dominic Butler",
+  "dependencies": {
+    "async": "^0.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.2.1"
+  }
+}
